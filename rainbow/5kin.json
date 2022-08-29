@@ -1,0 +1,189 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3254707153940847/1478794474",
+      "main_ads_intertitial":"ca-app-pub-3254707153940847/9297574749",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow30.png"
+    },
+  {
+      "id": 31,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "rainbow",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/rainbow/png/rainbow32.png"
+    }
+    
+  ]
+}
