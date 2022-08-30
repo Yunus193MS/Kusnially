@@ -1,0 +1,574 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3254707153940847/1478794474",
+      "main_ads_intertitial":"ca-app-pub-3254707153940847/9297574749",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy30.png"
+    },
+    {
+      "id": 31,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy40.png"
+    },
+    {
+      "id": 41,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy41.png"
+    },
+    {
+      "id": 42,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy42.png"
+    },
+    {
+      "id": 43,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy43.png"
+    },
+    {
+      "id": 44,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy44.png"
+    },
+    {
+      "id": 45,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy45.png"
+    },
+    {
+      "id": 46,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy6.png"
+    },
+    {
+      "id": 47,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy47.png"
+    },
+    {
+      "id": 48,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy48.png"
+    },
+    {
+      "id": 49,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy49.png"
+    },
+    {
+      "id": 50,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy50.png"
+    },
+    {
+      "id": 51,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy51.png"
+    },
+    {
+      "id": 52,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy52.png"
+    },
+    {
+      "id": 53,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy53.png"
+    },
+    {
+      "id": 54,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy54.png"
+    },
+    {
+      "id": 55,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy5.png"
+    },
+    {
+      "id": 56,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy56.png"
+    },
+    {
+      "id": 57,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy57.png"
+    },
+    {
+      "id": 58,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy58.png"
+    },
+    {
+      "id": 59,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy59.png"
+    },
+    {
+      "id": 60,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy60.png"
+    },
+    {
+      "id": 61,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy61.png"
+    },
+    {
+      "id": 62,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy62.png"
+    },
+    {
+      "id": 63,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy63.png"
+    },
+    {
+      "id": 64,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy64.png"
+    },
+    {
+      "id": 65,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy65.png"
+    },
+    {
+      "id": 66,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy66.png"
+    },
+    {
+      "id": 67,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy67.png"
+    },
+    {
+      "id": 68,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy68.png"
+    },
+    {
+      "id": 69,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy69.png"
+    },
+    {
+      "id": 70,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy70.png"
+    },
+    {
+      "id": 71,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy71.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy72.png"
+    },
+    {
+      "id": 73,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy73.png"
+    },
+    {
+      "id": 74,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy74.png"
+    },
+    {
+      "id": 75,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy75.png"
+    },
+    {
+      "id": 76,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy76.png"
+    },
+    {
+      "id": 77,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy77.png"
+    },
+    {
+      "id": 78,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy78.png"
+    },
+    {
+      "id": 79,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy79.png"
+    },
+    {
+      "id": 80,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy80.png"
+    },
+    {
+      "id": 81,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy1.png"
+    },
+    {
+      "id": 82,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy82.png"
+    },
+    {
+      "id": 83,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy83.png"
+    },
+    {
+      "id": 84,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy84.png"
+    },
+    {
+      "id": 85,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy85.png"
+    },
+    {
+      "id": 86,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy86.png"
+    },
+    {
+      "id": 87,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy87.png"
+    },
+    {
+      "id": 88,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy88.png"
+    },
+    {
+      "id": 89,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy89.png"
+    },
+    {
+      "id": 90,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy90.png"
+    },
+    {
+      "id": 91,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy91.png"
+    },
+    {
+      "id": 92,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy92.png"
+    },
+    {
+      "id": 93,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy93.png"
+    },
+    {
+      "id": 94,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy94.png"
+    },
+    {
+      "id": 95,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy95.png"
+    },
+    {
+      "id": 96,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy96.png"
+    },
+    {
+      "id": 97,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy97.png"
+    },
+    {
+      "id": 98,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy98.png"
+    },
+    {
+      "id": 99,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy99.png"
+    },
+    {
+      "id": 100,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy100.png"
+    },
+    {
+      "id": 101,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy101.png"
+    },
+    {
+      "id": 102,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy102.png"
+    },
+    {
+      "id": 103,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy103.png"
+    },
+    {
+      "id": 104,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy104.png"
+    },
+    {
+      "id": 105,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy105.png"
+    },
+    {
+      "id": 106,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy6.png"
+    },
+    {
+      "id": 107,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy107.png"
+    },
+    {
+      "id": 108,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy108.png"
+    },
+    {
+      "id": 109,
+      "name_skin": "fallguy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/fallguy/png/fallguy109.png"
+    }
+    
+  ]
+}
