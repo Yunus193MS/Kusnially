@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3254707153940847/1478794474",
-      "main_ads_intertitial":"ca-app-pub-3254707153940847/9297574749",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 2,
