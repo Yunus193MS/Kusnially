@@ -1,0 +1,329 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3254707153940847/1478794474",
+      "main_ads_intertitial":"ca-app-pub-3254707153940847/9297574749",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble1.webp"
+    },
+    {
+      "id": 2,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble3.webp"
+    },
+    {
+      "id": 4,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble4.webp"
+    },
+    {
+      "id": 5,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble5.webp"
+    },
+    {
+      "id": 6,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble7.webp"
+    },
+    {
+      "id": 8,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble8.webp"
+    },
+    {
+      "id": 9,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble10.webp"
+    },
+    {
+      "id": 11,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble22.webp"
+    },
+    {
+      "id": 23,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble23.webp"
+    },
+    {
+      "id": 24,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble24.webp"
+    },
+    {
+      "id": 25,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble28.webp"
+    },
+    {
+      "id": 29,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble30.png"
+    },
+    {
+      "id": 31,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble34.webp"
+    },
+    {
+      "id": 35,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble38.webp"
+    },
+    {
+      "id": 39,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble39.webp"
+    },
+    {
+      "id": 40,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble40.webp"
+    },
+    {
+      "id": 41,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble41.webp"
+    },
+    {
+      "id": 42,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble42.png"
+    },
+    {
+      "id": 43,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble43.webp"
+    },
+    {
+      "id": 44,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble44.png"
+    },
+    {
+      "id": 45,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble45.png"
+    },
+    {
+      "id": 46,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble6.png"
+    },
+    {
+      "id": 47,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble47.png"
+    },
+    {
+      "id": 48,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble48.png"
+    },
+    {
+      "id": 49,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble49.png"
+    },
+    {
+      "id": 50,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble50.png"
+    },
+    {
+      "id": 51,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble51.png"
+    },
+    {
+      "id": 52,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble52.png"
+    },
+    {
+      "id": 53,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble53.png"
+    },
+    {
+      "id": 54,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble54.png"
+    },
+    {
+      "id": 55,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble5.png"
+    },
+    {
+      "id": 56,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble56.png"
+    },
+    {
+      "id": 57,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble57.png"
+    },
+    {
+      "id": 58,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble58.png"
+    },
+    {
+      "id": 59,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble59.png"
+    },
+    {
+      "id": 60,
+      "name_skin": "stumble",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/stumbleg/png/stumble60.png"
+    }
+    
+  ]
+}
