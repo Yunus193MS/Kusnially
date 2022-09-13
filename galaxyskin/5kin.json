@@ -1,0 +1,574 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3254707153940847/1478794474",
+      "main_ads_intertitial":"ca-app-pub-3254707153940847/9297574749",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy30.png"
+    },
+    {
+      "id": 31,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy40.png"
+    },
+    {
+      "id": 41,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy41.png"
+    },
+    {
+      "id": 42,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy42.png"
+    },
+    {
+      "id": 43,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy43.png"
+    },
+    {
+      "id": 44,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy44.png"
+    },
+    {
+      "id": 45,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy45.png"
+    },
+    {
+      "id": 46,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy6.png"
+    },
+    {
+      "id": 47,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy47.png"
+    },
+    {
+      "id": 48,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy48.png"
+    },
+    {
+      "id": 49,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy49.png"
+    },
+    {
+      "id": 50,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy50.png"
+    },
+    {
+      "id": 51,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy51.png"
+    },
+    {
+      "id": 52,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy52.png"
+    },
+    {
+      "id": 53,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy53.png"
+    },
+    {
+      "id": 54,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy54.png"
+    },
+    {
+      "id": 55,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy5.png"
+    },
+    {
+      "id": 56,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy56.png"
+    },
+    {
+      "id": 57,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy57.png"
+    },
+    {
+      "id": 58,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy58.png"
+    },
+    {
+      "id": 59,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy59.png"
+    },
+    {
+      "id": 60,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy60.png"
+    },
+    {
+      "id": 61,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy61.png"
+    },
+    {
+      "id": 62,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy62.png"
+    },
+    {
+      "id": 63,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy63.png"
+    },
+    {
+      "id": 64,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy64.png"
+    },
+    {
+      "id": 65,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy65.png"
+    },
+    {
+      "id": 66,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy66.png"
+    },
+    {
+      "id": 67,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy67.png"
+    },
+    {
+      "id": 68,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy68.png"
+    },
+    {
+      "id": 69,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy69.png"
+    },
+    {
+      "id": 70,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy70.png"
+    },
+    {
+      "id": 71,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy71.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy72.png"
+    },
+    {
+      "id": 73,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy73.png"
+    },
+    {
+      "id": 74,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy74.png"
+    },
+    {
+      "id": 75,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy75.png"
+    },
+    {
+      "id": 76,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy76.png"
+    },
+    {
+      "id": 77,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy77.png"
+    },
+    {
+      "id": 78,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy78.png"
+    },
+    {
+      "id": 79,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy79.png"
+    },
+    {
+      "id": 80,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy80.png"
+    },
+    {
+      "id": 81,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy1.png"
+    },
+    {
+      "id": 82,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy82.png"
+    },
+    {
+      "id": 83,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy83.png"
+    },
+    {
+      "id": 84,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy84.png"
+    },
+    {
+      "id": 85,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy85.png"
+    },
+    {
+      "id": 86,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy86.png"
+    },
+    {
+      "id": 87,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy87.png"
+    },
+    {
+      "id": 88,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy88.png"
+    },
+    {
+      "id": 89,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy89.png"
+    },
+    {
+      "id": 90,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy90.png"
+    },
+    {
+      "id": 91,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy91.png"
+    },
+    {
+      "id": 92,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy92.png"
+    },
+    {
+      "id": 93,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy93.png"
+    },
+    {
+      "id": 94,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy94.png"
+    },
+    {
+      "id": 95,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy95.png"
+    },
+    {
+      "id": 96,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy96.png"
+    },
+    {
+      "id": 97,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy97.png"
+    },
+    {
+      "id": 98,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy98.png"
+    },
+    {
+      "id": 99,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy99.png"
+    },
+    {
+      "id": 100,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy100.png"
+    },
+    {
+      "id": 101,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy101.png"
+    },
+    {
+      "id": 102,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy102.png"
+    },
+    {
+      "id": 103,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy103.png"
+    },
+    {
+      "id": 104,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy104.png"
+    },
+    {
+      "id": 105,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy105.png"
+    },
+    {
+      "id": 106,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy6.png"
+    },
+    {
+      "id": 107,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy107.png"
+    },
+    {
+      "id": 108,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy108.png"
+    },
+    {
+      "id": 109,
+      "name_skin": "Galaxy",
+      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/galaxyskin/png/Galaxy109.png"
+    }
+    
+  ]
+}
