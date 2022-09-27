@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3254707153940847/1478794474",
-      "main_ads_intertitial":"ca-app-pub-3254707153940847/9297574749",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 2,
@@ -198,131 +198,6 @@
       "id": 35,
       "name_skin": "Woobly",
       "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly35.png"
-    },
-    {
-      "id": 36,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly36.png"
-    },
-    {
-      "id": 37,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly37.png"
-    },
-    {
-      "id": 38,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly38.png"
-    },
-    {
-      "id": 39,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly39.png"
-    },
-    {
-      "id": 40,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly40.png"
-    },
-    {
-      "id": 41,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly41.png"
-    },
-    {
-      "id": 42,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly42.png"
-    },
-    {
-      "id": 43,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly43.png"
-    },
-    {
-      "id": 44,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly44.png"
-    },
-    {
-      "id": 45,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly45.png"
-    },
-    {
-      "id": 46,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly6.png"
-    },
-    {
-      "id": 47,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly47.png"
-    },
-    {
-      "id": 48,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly48.png"
-    },
-    {
-      "id": 49,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly49.png"
-    },
-    {
-      "id": 50,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly50.png"
-    },
-    {
-      "id": 51,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly51.png"
-    },
-    {
-      "id": 52,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly52.png"
-    },
-    {
-      "id": 53,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly53.png"
-    },
-    {
-      "id": 54,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly54.png"
-    },
-    {
-      "id": 55,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly5.png"
-    },
-    {
-      "id": 56,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly56.png"
-    },
-    {
-      "id": 57,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly57.png"
-    },
-    {
-      "id": 58,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly58.png"
-    },
-    {
-      "id": 59,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly59.png"
-    },
-    {
-      "id": 60,
-      "name_skin": "Woobly",
-      "install_skin": "https://raw.githubusercontent.com/Yunus193MS/Kusnially/main/wooblyskinpackpng/Woobly60.png"
     }
     
   ]
